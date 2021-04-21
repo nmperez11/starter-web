@@ -11,6 +11,7 @@ Insert text here
 This is a deployment text
 
 ## How to Contribute
+Please fork this repository and then issue Pull Requests for review.
 
 ### Copyright
 2021 Git.Training.
