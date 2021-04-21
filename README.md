@@ -11,4 +11,6 @@ Insert text here
 This is a deployment text
 
 ## How to Contribute
-# Hello contribute
+
+### Copyright
+2021 Git.Training.
